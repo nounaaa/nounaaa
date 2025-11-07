@@ -1,7 +1,7 @@
 <!-- Najla's GitHub README -->
 <div align="center" style="background-color:#000000; color:#ff66cc; padding:40px; font-family:'Courier New', monospace; border-radius:20px;">
 
-  <h1 style="font-size:48px;">found the backdoor, kept it pretty</h1>
+  <h1 style="font-size:48px;">𐔌՞. .՞𐦯</h1>
   <p style="font-size:20px;">still learning, still curious, still breaking things i probably shouldn’t</p>
 
   <hr style="border: 1px solid #ff66cc; width:80%; margin:30px auto;">
