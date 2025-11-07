@@ -9,7 +9,7 @@
   <h2>⋆. 𐙚˚࿔ about nouna 𝜗𝜚˚⋆</h2>
   <p>
     ⊹ ࣪ ˖ 20 • qatari raised in texas<br>
-    ⊹ ࣪ ˖ new to cybersecurity — trying to figure it all out one command at a time<br>
+    ⊹ ࣪ ˖ new to cybersecurity, trying to figure it all out one command at a time<br>
     ⊹ ࣪ ˖ play valorant way too much | ⋆𐙚 ̊. gymrat<br>
   </p>
 
