@@ -2,17 +2,15 @@
 ⋆. 𐙚˚࿔ about nouna 𝜗𝜚˚⋆
 
 > cybersecurity. OSINT. Gulf & American politics. building things that matter.
-
----
 ```python
 {
   "location"  : "Doha, Qatar 🇶🇦",
   "company"   : "PulseAI — pulseai.qa",
-  "focus"     : ["offensive security", "OSINT", "threat intelligence"],
-  "also"      : ["geopolitical research", "Gulf women's rights", "American politics", "open source"]
+  "focus"     : ["cybersecurity", "OSINT tooling", "threat intelligence"],
+  "research"  : ["Gulf geopolitics", "Iran–US–Israel conflict", "women's rights in the Gulf", "American politics"],
+  "building"  : ["PulseGuard", "PulseAI"]
 }
 ```
-
 ---
 
 ### open source
