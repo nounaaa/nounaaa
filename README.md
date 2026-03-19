@@ -18,7 +18,7 @@
 
 ### open source
 
-**[PulseGuard](https://github.com/yourusername/pulseguard)** — threat intelligence bot. scan links, IPs, usernames, images, domains. free, no signup, built in Qatar.
+**[PulseGuard](https://github.com/nounaaa/pulseguard)** — threat intelligence bot. scan links, IPs, usernames, images, domains. free, no signup, built in Qatar.
 
 ---
 
