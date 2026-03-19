@@ -1,33 +1,49 @@
-<!-- Najla's GitHub README -->
-<div align="center" style="background-color:#000000; color:#ff66cc; padding:40px; font-family:'Courier New', monospace; border-radius:20px;">
-
-  <h1 style="font-size:48px;">𐔌՞. .՞𐦯</h1>
-  <p style="font-size:20px;">still learning, still curious, still breaking things i probably shouldn’t</p>
-
-  <hr style="border: 1px solid #ff66cc; width:80%; margin:30px auto;">
-
-  <h2>⋆. 𐙚˚࿔ about nouna 𝜗𝜚˚⋆</h2>
-  <p>
-    ⊹ ࣪ ˖ 20 • qatari raised in texas<br>
-    ⊹ ࣪ ˖ new to cybersecurity, trying to figure it all out one command at a time<br>
-    ⊹ ࣪ ˖ play valorant way too much | ⋆𐙚 ̊. gymrat<br>
-  </p>
-
-  <h2>currently</h2>
-  <p>
-   ⊹ ࣪ ˖ learning python and the basics of cybersecurity<br>
-   ⊹ ࣪ ˖ trying to understand red teaming (and not break my pc in the process)<br>
-  </p>
-
-  <h2>random stuff</h2>
-  <p>
-   ⊹ ࣪ ˖ used to be a crypto nerd but got sick of it pretty fast (scams got cringey)<br>
-   ⊹ ࣪ ˖ obsessed with fashion and collecting rare pieces<br> 
-   ⊹ ࣪ ˖ all i do is play val and be a nerd about tech<br>
-  </p>
-
-  <hr style="border: 1px solid #ff66cc; width:60%; margin:40px auto;">
-
-  <p style="font-size:16px;">⋆˚౨ৎ ⋆.˚ still figuring it out:3</p>
-
 </div>
+⋆. 𐙚˚࿔ about nouna 𝜗𝜚˚⋆
+
+> cybersecurity. OSINT. Gulf & American politics. building things that matter.
+
+---
+```python
+{
+  "location"  : "Doha, Qatar 🇶🇦",
+  "company"   : "PulseAI — pulseai.qa",
+  "focus"     : ["offensive security", "OSINT", "threat intelligence"],
+  "also"      : ["geopolitical research", "Gulf women's rights", "American politics", "open source"]
+}
+```
+
+---
+
+### open source
+
+**[PulseGuard](https://github.com/yourusername/pulseguard)** — threat intelligence bot. scan links, IPs, usernames, images, domains. free, no signup, built in Qatar.
+
+---
+
+### skills
+
+`python` `linux` `bash` `penetration testing` `malware analysis` `OSINT` `network security` `SOC`
+
+---
+
+### currently
+
+⊹ ࣪ ˖ founder & CEO @ [PulseAI](https://pulseai.qa)  
+⊹ ࣪ ˖ cybersecurity @ Lusail University  
+⊹ ࣪ ˖ OSINT practitioner 
+⊹ ࣪ ˖ independent political research analyst
+
+---
+
+### find me
+
+[![linkedin](https://img.shields.io/badge/linkedin-najla_al_maadeed-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/najlaalmaadeed)
+&nbsp;
+[![pulseai](https://img.shields.io/badge/pulseai-pulseai.qa-00C48C?style=flat-square)](https://pulseai.qa)
+&nbsp;
+[![telegram](https://img.shields.io/badge/pulseguard-bot-26A5E4?style=flat-square&logo=telegram)](https://t.me/@pulseqabot)
+
+---
+
+*qatar-based. building at the intersection of security, ai, and the arab world.*
