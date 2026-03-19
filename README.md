@@ -5,15 +5,14 @@
 </div>
 
 > cybersecurity. OSINT. Gulf & American politics. building things that matter.
-```python
-{
-  "location"  : "Doha, Qatar 🇶🇦",
-  "company"   : "PulseAI — pulseai.qa",
-  "focus"     : ["cybersecurity", "OSINT tooling", "threat intelligence"],
-  "research"  : ["Gulf geopolitics", "Iran–US–Israel conflict", "women's rights in the Gulf", "American politics"],
-  "building"  : ["PulseGuard", "PulseAI"]
-}
-```
+
+| | |
+|---|---|
+| 📍 location | Doha, Qatar 🇶🇦 |
+| 🏢 company | [PulseAI](https://pulseai.qa) |
+| 🎯 focus | cybersecurity · OSINT tooling · threat intelligence |
+| 🔬 research | Gulf geopolitics · Iran–US–Israel · women's rights in the Gulf · American politics |
+| 🔨 building | PulseGuard · PulseAI |
 
 ---
 
@@ -45,7 +44,3 @@
 [![pulseai](https://img.shields.io/badge/pulseai-pulseai.qa-00C48C?style=flat-square)](https://pulseai.qa)
 &nbsp;
 [![telegram](https://img.shields.io/badge/pulseguard-bot-26A5E4?style=flat-square&logo=telegram)](https://t.me/pulseqabot)
-
----
-
-*qatar-based. building at the intersection of security, ai, and the arab world.*
