@@ -1,5 +1,8 @@
-</div>
+<div align="center">
+
 ⋆. 𐙚˚࿔ about nouna 𝜗𝜚˚⋆
+
+</div>
 
 > cybersecurity. OSINT. Gulf & American politics. building things that matter.
 ```python
@@ -11,6 +14,7 @@
   "building"  : ["PulseGuard", "PulseAI"]
 }
 ```
+
 ---
 
 ### open source
@@ -29,18 +33,18 @@
 
 ⊹ ࣪ ˖ founder & CEO @ [PulseAI](https://pulseai.qa)  
 ⊹ ࣪ ˖ cybersecurity @ Lusail University  
-⊹ ࣪ ˖ OSINT practitioner 
-⊹ ࣪ ˖ independent political research analyst
+⊹ ࣪ ˖ OSINT tools developer  
+⊹ ࣪ ˖ independent political research analyst  
 
 ---
 
 ### find me
 
-[![linkedin](https://img.shields.io/badge/linkedin-najla_al_maadeed-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/najlaalmaadeed)
+[![linkedin](https://img.shields.io/badge/linkedin-najla_al_maadeed-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/najlaalmaadeed)
 &nbsp;
 [![pulseai](https://img.shields.io/badge/pulseai-pulseai.qa-00C48C?style=flat-square)](https://pulseai.qa)
 &nbsp;
-[![telegram](https://img.shields.io/badge/pulseguard-bot-26A5E4?style=flat-square&logo=telegram)](https://t.me/@pulseqabot)
+[![telegram](https://img.shields.io/badge/pulseguard-bot-26A5E4?style=flat-square&logo=telegram)](https://t.me/pulseqabot)
 
 ---
 
